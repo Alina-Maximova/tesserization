@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAS0323\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|C:\\Users\\MAS0323\\source\\repos\\Test\\test\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|solutionrelative:test\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|c:\\users\\mas0323\\source\\repos\\test\\test\\educationalinstitutiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|solutionrelative:test\\educationalinstitutiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|C:\\Users\\MAS0323\\source\\repos\\Test\\test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|solutionrelative:test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|C:\\Users\\MAS0323\\source\\repos\\Test\\test\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|solutionrelative:test\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|C:\\Users\\MAS0323\\source\\repos\\Test\\test\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|solutionrelative:test\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|C:\\Users\\MAS0323\\source\\repos\\Test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9214890-8E7D-4EC9-A05A-658D08169127}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Test||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 12,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationalInstitutionTest.cs",
+              "DocumentMoniker": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\EducationalInstitutionTest.cs",
+              "RelativeDocumentMoniker": "Test\\EducationalInstitutionTest.cs",
+              "ToolTip": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\EducationalInstitutionTest.cs",
+              "RelativeToolTip": "Test\\EducationalInstitutionTest.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:01:39.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Test\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Test\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:47:59.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\App.config",
+              "RelativeDocumentMoniker": "Test\\App.config",
+              "ToolTip": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\App.config",
+              "RelativeToolTip": "Test\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-01T10:47:55.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\packages.config",
+              "RelativeDocumentMoniker": "Test\\packages.config",
+              "ToolTip": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\packages.config",
+              "RelativeToolTip": "Test\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-01T10:47:54.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test",
+              "DocumentMoniker": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-01T10:33:20.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\LoginTests.cs",
+              "RelativeDocumentMoniker": "Test\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\LoginTests.cs",
+              "RelativeToolTip": "Test\\LoginTests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:24:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\MAS0323\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:21:54.209Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
